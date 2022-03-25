@@ -1,0 +1,106 @@
+body {
+    background: #EFFFFD;
+    font-family: 'Nunito', sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+.nav-section {
+    text-align: center;
+}
+
+.nav-section a {
+    text-decoration: none;
+    font-size: 20px;
+    margin: auto 2rem;
+    color: black;
+}
+
+.flower-photo {
+    width: 30%;
+    border-radius: 50%;
+}
+
+strong {
+    font-size: 24px;
+    color: #F6AE99;
+}
+
+.main-section {
+    text-align: center;
+}
+
+.main-section-about {
+    background: #FFE194;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0;
+    color: #B980F0;
+}
+
+.different-text-colors {
+    color: #11324D;
+    font-weight: 600;
+}
+
+.closing-img {
+    margin: 1rem auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.heading-pic {
+    width: 80%;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-post {
+    margin: 1rem;
+    padding: 1rem;
+    background: #000;
+    border-radius: 6px;
+}
+
+.posts-starting-left .title-and-image-box {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.posts-starting-right .title-and-image-box {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.image img {
+    width: 100px;
+    border-radius: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.post {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.title {
+    color: #B980F0;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.description {
+    color: #FDFAF6;
+}
+
+.posts-starting-right .description {
+    text-align: right;
+}
